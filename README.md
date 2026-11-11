@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **Étudiant ingénieur en cybersécurité · ENSA Marrakech**
 Sécurité réseau · IDS/IPS · SOAR · Développement backend
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON-LIEN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/salah-eddine-bouaanane-b791a7253)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON-EMAIL)
 
 </div>
@@ -30,12 +30,11 @@ Sécurité réseau · IDS/IPS · SOAR · Développement backend
 
 ## 👋 À propos
 
-Étudiant en 2ᵉ année du cycle ingénieur en cybersécurité (GCDSTE) à l'ENSA Marrakech, actuellement en stage chez **DATAPROTECT** (Casablanca).
+Étudiant en 3ᵉ année du cycle ingénieur en cybersécurité (GCDSTE) à l'ENSA Marrakech, .
 Je m'intéresse à la détection d'intrusions, à l'automatisation de la réponse aux incidents et à la conception d'applications sécurisées.
 
 🔎 **Je recherche** un stage PFE en sécurité réseau / SOC / automatisation SOAR.
-🌍 Maroc · 🗣️ Français · العربية · English · Italiano (notions)
-
+🌍 Maroc · 🗣️ Français · English 
 ---
 
 ## 🛡️ Projets phares
