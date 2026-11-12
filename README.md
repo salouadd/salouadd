@@ -5,7 +5,7 @@
 **🎓 Étudiant ingénieur @ ENSA Marrakech · 🔐 Cybersécurité · 🛰️ SOC · ⚙️ Automatisation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-bouaanane-b791a7253)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON-EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salaheddinebouaanane1@gmail.com)
 
 </div>
 
