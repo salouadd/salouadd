@@ -103,7 +103,6 @@ Je construis chaque projet comme un petit système de production : architecture,
 ## 🏅 Certifications
 
 - ISO/IEC 27001
-- ACE Multicloud Network Associate
 
 ---
 
@@ -117,8 +116,10 @@ Je construis chaque projet comme un petit système de production : architecture,
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=salouadd&show_icons=true&theme=github_dark&hide_border=true)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=salouadd&layout=compact&theme=github_dark&hide_border=true)
+![Profil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salouadd&theme=github_dark)
+![Langages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salouadd&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salouadd&theme=github_dark)
+
 
 </div>
 
