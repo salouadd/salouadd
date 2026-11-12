@@ -1,63 +1,115 @@
-## Hi there 👋
-
-<!--
-**salouadd/salouadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-# Salah Eddine Bouaanane
+# 👋 Salah Eddine Bouaanane
 
-**Étudiant ingénieur en cybersécurité · ENSA Marrakech**
-Sécurité réseau · IDS/IPS · SOAR · Développement backend
+**🎓 Étudiant ingénieur @ ENSA Marrakech · 🔐 Cybersécurité · 🛰️ SOC · ⚙️ Automatisation**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/salah-eddine-bouaanane-b791a7253)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-bouaanane-b791a7253)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON-EMAIL)
 
 </div>
 
 ---
 
-## 👋 À propos
+```bash
+$ whoami
+salouadd — ingénieur cybersécurité en formation
 
-Étudiant en 3ᵉ année du cycle ingénieur en cybersécurité (GCDSTE) à l'ENSA Marrakech, .
-Je m'intéresse à la détection d'intrusions, à l'automatisation de la réponse aux incidents et à la conception d'applications sécurisées.
+$ cat mission.txt
+Prévenir les attaques, les détecter vite, y répondre automatiquement.
 
-🔎 **Je recherche** un stage PFE en sécurité réseau / SOC / automatisation SOAR.
-🌍 Maroc · 🗣️ Français · English 
+$ status
+open_to: stage PFE (SOC · réseau · SOAR)
+```
+
 ---
 
-## 🛡️ Projets phares
+## 🚀 À propos
 
-| Projet | Description | Stack |
+Étudiant ingénieur en cybersécurité (GCDSTE, ENSA Marrakech), je conçois et durcis des environnements de défense : de l'architecture réseau segmentée à la détection d'intrusions, jusqu'à l'automatisation de la réponse aux incidents.
+
+Je construis chaque projet comme un petit système de production : architecture, durcissement, supervision, documentation.
+
+🎯 **Objectif :** un stage PFE où mettre ces compétences au service d'un SOC ou d'une équipe sécurité réseau.
+
+---
+
+## 🧭 Ma démarche : un cycle de défense complet
+
+| Étape | Ce que je fais | Outils |
 |---|---|---|
-| **Pipeline SOAR** | Automatisation de la réponse aux alertes : Snort → ELK → workflows n8n | `Snort` `ELK` `n8n` `Docker` |
-| **IDS/IPS hybride** | Architecture de détection hybride (signatures + comportement) et lab de test | `Snort` `Suricata` `Linux` |
-| **Digital Banking Platform** | Néobanque en microservices, travail en équipe de 5 (Scrum/Jira) | `Spring Boot` `React` `Kafka` |
-
-> 👉 Épingle ces dépôts en haut de ton profil (voir les conseils séparés).
+| 🛡️ **Prévenir** | Segmentation, filtrage, WAF, VPN, durcissement | `pfSense` `FortiGate` `F5 BIG-IP` `OpenVPN` `IPsec` |
+| 🔎 **Détecter** | IDS/IPS réseau et hôte, honeypot, corrélation de logs | `Snort` `Suricata` `ELK` `Splunk` `Wireshark` |
+| 🚨 **Répondre** | Enrichissement d'alertes, actions automatiques sur incident | `Microsoft Sentinel` `VirusTotal` `Azure AD` |
+| ⚙️ **Automatiser** | Workflows SOAR, conteneurs, pipelines | `n8n` `Docker` `Git` `DevSecOps` |
 
 ---
 
-## 🧰 Compétences
+## 📂 Projets
 
-**Sécurité** &nbsp; ![Snort](https://img.shields.io/badge/Snort-IDS%2FIPS-red?style=flat-square) ![Elastic](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+### 🛰️ SOC open source (Snort · ELK · pfSense · n8n)
+- Détection d'intrusions avec Snort, corrélation dans ELK
+- Segmentation et filtrage avec pfSense
+- Orchestration des alertes avec n8n, durcissement de l'ensemble
 
-**Automatisation & DevOps** &nbsp; ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🤖 SOAR avec Microsoft Sentinel
+- Workflow n8n branché sur Sentinel
+- Enrichissement des alertes avec VirusTotal
+- Actions sur les comptes via Azure AD, synthèse d'incident assistée par IA
 
-**Développement** &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 🧱 Défense en profondeur (WAF · NIDS/NIPS · HIDS/HIPS · Honeypot)
+- Architecture multicouche avec tunnels OpenVPN et IPsec
+- Détection réseau et hôte, honeypot pour observer les attaquants
+- Démarche DevSecOps intégrée
 
-**Méthodes** &nbsp; Scrum · Jira · PCA/PRA · Gestion de crise
+### 🔥 Lab WAF / NGFW / SIEM
+- FortiGate (NGFW), F5 BIG-IP (WAF), Keycloak (IAM), Splunk (SIEM)
+- DVWA comme cible d'attaque, sous VMware
+
+### 🏦 Neobank : microservice Identity & KYC
+- Inscription, authentification JWT, processus KYC, espace admin
+- Génération de documents PDF
+- `Java 21` `Spring Boot 3.4` `PostgreSQL`
+
+### ☎️ Lab VoIP
+- Téléphonie SIP sous Kali Linux avec Asterisk et PJSIP
+
+---
+
+## 🛠️ Compétences
+
+**🔐 Cybersécurité**
+- Détection d'intrusions : Snort, Suricata
+- SIEM / SOC : ELK, Splunk, Microsoft Sentinel
+- Analyse réseau : Wireshark, Kali Linux
+- Gouvernance : ISO/IEC 27001, analyse de risques, PCA/PRA
+
+**🌐 Réseau & infrastructure**
+- pfSense, FortiGate, F5 BIG-IP
+- VPN : OpenVPN, IPsec
+- VMware ESXi, Packet Tracer
+
+**⚙️ Automatisation & DevOps**
+- n8n, Docker, Git, Linux, Bash
+
+**💻 Développement**
+- Java, Spring Boot, Python, React
+
+**📋 Méthodes**
+- Scrum, Jira
+
+---
+
+## 🏅 Certifications
+
+- ISO/IEC 27001
+- ACE Multicloud Network Associate
+
+---
+
+## 🌍 Langues
+
+- Français · English
 
 ---
 
@@ -68,17 +120,13 @@ Je m'intéresse à la détection d'intrusions, à l'automatisation de la répons
 ![Stats](https://github-readme-stats.vercel.app/api?username=salouadd&show_icons=true&theme=github_dark&hide_border=true)
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=salouadd&layout=compact&theme=github_dark&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=salouadd&theme=github-dark-blue&hide_border=true)
-
 </div>
 
 ---
 
-## 🎯 En ce moment
+## ⚡ Fun fact
 
-- 🔭 Je travaille sur l'automatisation SOAR (n8n + Snort + ELK)
-- 📚 J'approfondis la détection d'intrusions et les plans de continuité (PCA/PRA)
-- 🤝 Ouvert aux collaborations et aux retours sur mes projets
+Je passe mon temps à attaquer mes propres labs, pour les rendre plus difficiles à attaquer. 🔐
 
 <div align="center">
 
